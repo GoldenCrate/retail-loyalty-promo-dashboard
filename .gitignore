@@ -1,0 +1,21 @@
+# Generated synthetic data (recreated deterministically by data_gen.py)
+data/
+*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.Python
+
+# Streamlit
+.streamlit/secrets.toml
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
